@@ -1,0 +1,15 @@
+MIT xPro Pac-Men Exercise
+
+MIT xPro pacmen assignment is a javascript application that adds pac-men objects to the browser that move around inside the borwser window
+
+-Click "Add pacman" button to add pacmen to the browser
+
+-Click the "Start" button to watch the pac-men move around the browser window
+
+
+
+This script could be updated to add more functionality such as different color objects being deployed or the speed at which the pac-men move about the browser window for future development.
+
+!!Licensing Information!!
+
+This code is licensed by MIT and all subsequent copies of this repository should include this information.
